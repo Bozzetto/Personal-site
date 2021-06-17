@@ -4,8 +4,12 @@
 		<title>HomePage</title>
 	</head>
 	<body>
-		<h1>Ola mundo, meu nome e Leonardo</h1>
-		<p>Eu gosto de animes,xis e minecraft</p>
-		<a href='https://xisdagringa.wdelivery.com.br/caxias-do-sul/restaurantes/xis-da-gringa'>Meu restaurante favorito de xis </a>
+		<h1 lang = "pt-br">Ola mundo, meu nome e Leonardo</h1>
+		<p lang = "pt-br">Eu gosto de animes,xis e minecraft</p>
+		<blockquote>
+			<p>You are the <em>only one</em> responsible for your own wants.</p>
+			<p>Isaac Asimov, I, Robot </p>
+		</blockquote>
+		<a lang= "pt-br" href='https://xisdagringa.wdelivery.com.br/caxias-do-sul/restaurantes/xis-da-gringa'>Meu restaurante favorito de xis </a>
 	</body>
 </html>
