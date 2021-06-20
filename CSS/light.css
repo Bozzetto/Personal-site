@@ -1,9 +1,14 @@
 body {
 	font-family: Arial;
-	background-color: rgb(185,179,175);
+	background-color: #7954a1;
 
 }
 h1 {
 	color: rgb(255,255,255);
+
+}
+p {
+	color: #efdcf9
+	
 
 }
